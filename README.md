@@ -47,6 +47,9 @@ I'm a passionate AI Engineering student in my 3rd year, with a comprehensive ski
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 
+
+
+
 ### 🛠 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)

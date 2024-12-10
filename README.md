@@ -50,7 +50,6 @@ I'm a passionate AI Engineering student in my 3rd year, with a comprehensive ski
 ### 🛠 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 

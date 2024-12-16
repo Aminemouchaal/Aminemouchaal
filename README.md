@@ -3,7 +3,6 @@
 ## 🚀 About Me
 I'm a passionate AI Engineering student in my 3rd year, with a comprehensive skill set spanning multiple domains of technology. My journey is driven by curiosity, innovation, and a desire to push the boundaries of what's possible with technology.
 
-
 ## 👀 Interests
 - **Artificial Intelligence & Machine Learning**
 - Full Stack Web Development
